@@ -24,5 +24,5 @@ Variables Data types and Activities in UiPath
   ->Create variables (ctrl+k) or use variable panel to save image, file, number, etc
   ->Remove Variables - Delete variables using variable pane or also use remove unused variables
   ->Manage Variable - Set type and scope...This are the global variables and have cascading effect
-  
+2. Datatypes: Integer, String, Boolean, Generic, Array Of 
   
