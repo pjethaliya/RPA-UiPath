@@ -25,4 +25,15 @@ Variables Data types and Activities in UiPath
   ->Remove Variables - Delete variables using variable pane or also use remove unused variables
   ->Manage Variable - Set type and scope...This are the global variables and have cascading effect
 2. Datatypes: Integer, String, Boolean, Generic, Array Of 
+
+Activities - It provides various actions which you need to automate  different applications
+1. Message Box - Display a given text to the user
+2. Assign - Assign the value to some variable based on some condition
+3. Write CSV - It is used to save the specified DataTable to a CSV file
+4. If
+5. For Each
+6. Switch
+7. While
+8. Do While
+
   
